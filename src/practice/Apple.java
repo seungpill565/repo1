@@ -2,9 +2,9 @@ package practice;
 
 public class Apple {
 
-		int a;
-		int b;
-		int c;
+		double a;
+		double b;
+		double c;
 		float d;
 		
 		public Apple(int a, int b, int c ) {
